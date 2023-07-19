@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;500&family=Poppins:wght@500;800&display=swap');
+*{  
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    background-color: rgb(8, 0, 61);
+}
+.container h2,h3, p{
+    color: aliceblue;
+    text-align: center;
+
+}
+.container p{
+    color: rgb(202, 187, 22);
+}
+img{
+    width: 500px;
+    align-items: center;
+}
+
+.image {
+    width: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 420px;
+}
+
+.mlogo img{
+    width: 100px;
+}
